@@ -18,3 +18,5 @@ function binarySearch(list, item) {
 
   return -1
 }
+
+console.log(binarySearch([1, 3, 5, 7, 9, 11], 3))
