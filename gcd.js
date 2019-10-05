@@ -1,6 +1,6 @@
 /*
-Find the greatest common denominator of two numbers
-using Euclid's algorithm
+  Find the greatest common denominator of two numbers
+  using Euclid's algorithm
 */ 
 function gcd(num1, num2) {
   let a = Math.max(num1, num2)
